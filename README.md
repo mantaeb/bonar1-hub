@@ -36,3 +36,7 @@ Then open `http://127.0.0.1:8766/`.
 3. Point the Cloudflare apex records at the GitHub Pages apex addresses.
 4. Redirect `www.bonar1.com` to `https://bonar1.com/`.
 5. Enable HTTPS, submit `sitemap.xml`, request indexing for both language routes and add analytics if wanted.
+
+## Analytics
+
+Cloudflare Web Analytics is installed on the English, Hebrew and 404 pages with site token `67241cd43e0c4f0fb9cee03bfa8d3f15`. The footer discloses it. The page has no cookies, forms or advertising trackers.
