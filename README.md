@@ -31,11 +31,21 @@ Then open `http://127.0.0.1:8766/`.
 
 ## Launch requirements
 
-1. Publish the contents of this folder at the repository root.
-2. Configure the custom domain as `bonar1.com`.
-3. Point the Cloudflare apex records at the GitHub Pages apex addresses.
-4. Redirect `www.bonar1.com` to `https://bonar1.com/`.
-5. Enable HTTPS, submit `sitemap.xml`, request indexing for both language routes and add analytics if wanted.
+1. [x] Publish the contents of this folder at the repository root.
+2. [x] Configure the custom domain as `bonar1.com`.
+3. [x] Point the Cloudflare apex records at the GitHub Pages apex addresses.
+4. [x] Route `www.bonar1.com` to the Pages site and redirect it to `https://bonar1.com/`.
+5. [x] Serve both hostnames through Cloudflare's active universal HTTPS certificate.
+6. [ ] Submit `sitemap.xml` and request indexing for both language routes.
+
+## Hosting state
+
+- Public repository: `mantaeb/bonar1-hub`.
+- GitHub Pages custom domain: `bonar1.com`.
+- Cloudflare apex A/AAAA records and the `www` CNAME are proxied.
+- Cloudflare SSL mode is Full, its universal certificate covers `bonar1.com` and `*.bonar1.com`, and Always Use HTTPS is on.
+- GitHub's own custom-domain certificate had not attached after roughly 30 minutes on 2026-09-03. This does not block visitors because Cloudflare terminates valid HTTPS at the edge and uses encrypted Full-mode transport to GitHub.
+- If the records are ever changed back to DNS-only, verify GitHub's certificate first and enable GitHub Pages HTTPS in the same operation.
 
 ## Analytics
 
