@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#17211d"/>
+  <g opacity=".14" stroke="#9fd8c2">
+    <path d="M0 92h1200M0 184h1200M0 276h1200M0 368h1200M0 460h1200M0 552h1200"/>
+    <path d="M92 0v630M184 0v630M276 0v630M368 0v630M460 0v630M552 0v630M644 0v630M736 0v630M828 0v630M920 0v630M1012 0v630M1104 0v630"/>
+  </g>
+  <circle cx="1050" cy="105" r="220" fill="#2d63c8" opacity=".24"/>
+  <circle cx="1040" cy="105" r="58" fill="#17211d" stroke="#fffdf7" stroke-width="2"/>
+  <text x="1040" y="117" fill="#fffdf7" font-family="Arial, sans-serif" font-size="34" font-weight="700" text-anchor="middle">B1</text>
+  <text x="76" y="115" fill="#dfa84b" font-family="Arial, sans-serif" font-size="23" font-weight="700" letter-spacing="5">BONAR1.COM</text>
+  <text x="76" y="260" fill="#fffdf7" font-family="Arial, sans-serif" font-size="78" font-weight="700">One address.</text>
+  <text x="76" y="348" fill="#9fd8c2" font-family="Arial, sans-serif" font-size="78">Three distinct bodies of work.</text>
+  <line x1="76" y1="435" x2="1124" y2="435" stroke="#fffdf7" opacity=".3"/>
+  <text x="76" y="505" fill="#e6e8e2" font-family="Arial, sans-serif" font-size="28">COMMERCIAL LEADERSHIP</text>
+  <text x="453" y="505" fill="#e6e8e2" font-family="Arial, sans-serif" font-size="28">PRIVATE AI</text>
+  <text x="717" y="505" fill="#e6e8e2" font-family="Arial, sans-serif" font-size="28">PSYCHOTHERAPY</text>
+</svg>
