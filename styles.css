@@ -200,12 +200,7 @@ h1 span {
 }
 
 .properties {
-  padding-block: clamp(5rem, 10vw, 9rem);
-}
-
-.section-heading {
-  max-width: 760px;
-  margin-bottom: clamp(2.5rem, 5vw, 4.5rem);
+  padding-block: clamp(3rem, 6vw, 5rem);
 }
 
 h2 {
