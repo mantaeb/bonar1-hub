@@ -11,7 +11,7 @@
   <text x="76" y="260" fill="#fffdf7" font-family="Arial, sans-serif" font-size="78" font-weight="700">One address.</text>
   <text x="76" y="348" fill="#9fd8c2" font-family="Arial, sans-serif" font-size="78">Three distinct bodies of work.</text>
   <line x1="76" y1="435" x2="1124" y2="435" stroke="#fffdf7" opacity=".3"/>
-  <text x="76" y="505" fill="#e6e8e2" font-family="Arial, sans-serif" font-size="28">COMMERCIAL LEADERSHIP</text>
-  <text x="453" y="505" fill="#e6e8e2" font-family="Arial, sans-serif" font-size="28">PRIVATE AI</text>
-  <text x="717" y="505" fill="#e6e8e2" font-family="Arial, sans-serif" font-size="28">PSYCHOTHERAPY</text>
+  <text x="76" y="505" fill="#e6e8e2" font-family="Arial, sans-serif" font-size="24">COMMERCIAL LEADERSHIP</text>
+  <text x="485" y="505" fill="#e6e8e2" font-family="Arial, sans-serif" font-size="24">PRIVATE AI</text>
+  <text x="750" y="505" fill="#e6e8e2" font-family="Arial, sans-serif" font-size="24">PSYCHOTHERAPY</text>
 </svg>
