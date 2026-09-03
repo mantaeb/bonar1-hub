@@ -29,59 +29,36 @@
     <meta name="twitter:image" content="https://bonar1.com/social-card.png">
     <script type="module" src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token":"67241cd43e0c4f0fb9cee03bfa8d3f15"}'></script>
     <script type="application/ld+json">
-      {
-        "@context": "https://schema.org",
-        "@graph": [
-          {
-            "@type": "WebSite",
-            "@id": "https://bonar1.com/#website",
-            "url": "https://bonar1.com/",
-            "name": "Bonar1",
-            "description": "The shared home for the public work of Etgar and Adi Bonar.",
-            "inLanguage": ["en", "he"]
-          },
-          {
-            "@type": "CollectionPage",
-            "@id": "https://bonar1.com/#home",
-            "url": "https://bonar1.com/",
-            "name": "Bonar1 | Public work and projects",
-            "description": "A clear route to Etgar Bonar's executive profile, Private AI and Adi Dwek Bonar's psychotherapy practice.",
-            "dateModified": "2026-09-03",
-            "inLanguage": "en",
-            "isPartOf": {"@id": "https://bonar1.com/#website"},
-            "mainEntity": {"@id": "https://bonar1.com/#properties"}
-          },
-          {
-            "@type": "ItemList",
-            "@id": "https://bonar1.com/#properties",
-            "name": "Bonar1 public properties",
-            "numberOfItems": 3,
-            "itemListElement": [
-              {
-                "@type": "ListItem",
-                "position": 1,
-                "name": "Etgar Bonar",
-                "description": "Revenue and go-to-market executive profile, career record and commercial point of view.",
-                "url": "https://etgar.bonar1.com/"
-              },
-              {
-                "@type": "ListItem",
-                "position": 2,
-                "name": "Adi Dwek Bonar",
-                "description": "Psychoanalytic psychotherapy for children, adolescents and their parents.",
-                "url": "https://adi.bonar1.com/"
-              },
-              {
-                "@type": "ListItem",
-                "position": 3,
-                "name": "Private AI",
-                "description": "A private personal AI operating layer for individuals and families.",
-                "url": "https://ai.bonar1.com/"
-              }
-            ]
-          }
-        ]
-      }
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebSite",
+          "@id": "https://bonar1.com/#website",
+          "url": "https://bonar1.com/",
+          "name": "bonar1",
+          "inLanguage": "en"
+        },
+        {
+          "@type": "CollectionPage",
+          "@id": "https://bonar1.com/#webpage",
+          "url": "https://bonar1.com/",
+          "name": "bonar1",
+          "isPartOf": { "@id": "https://bonar1.com/#website" },
+          "inLanguage": "en",
+          "mainEntity": { "@id": "https://bonar1.com/#properties" }
+        },
+        {
+          "@type": "ItemList",
+          "@id": "https://bonar1.com/#properties",
+          "itemListElement": [
+            { "@type": "ListItem", "position": 1, "name": "Etgar Bonar", "url": "https://etgar.bonar1.com/" },
+            { "@type": "ListItem", "position": 2, "name": "Adi Dwek Bonar", "url": "https://adi.bonar1.com/" },
+            { "@type": "ListItem", "position": 3, "name": "Private AI", "url": "https://ai.bonar1.com/" }
+          ]
+        }
+      ]
+    }
     </script>
   </head>
   <body>
