@@ -10,7 +10,7 @@
 ## Public properties
 
 - [Etgar Bonar](https://etgar.bonar1.com/): Revenue and go-to-market executive profile, career record and commercial point of view.
-- [The cost-to-serve line](https://etgar.bonar1.com/five-layers/): Etgar Bonar's point of view on AI-mediated customer journeys.
+- [The cost-to-serve line](https://etgar.bonar1.com/cost-to-serve-line/): Etgar Bonar's point of view on AI-mediated customer journeys.
 - [Private AI](https://ai.bonar1.com/): A private personal AI operating layer for individuals and families.
 - [Private AI questions](https://ai.bonar1.com/faq/): Direct answers about the working system, its boundaries, reliability and security approach.
 - [Adi Dwek Bonar](https://adi.bonar1.com/): Psychoanalytic psychotherapy for children, adolescents and their parents.
