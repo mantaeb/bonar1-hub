@@ -15,8 +15,8 @@ The apex explains and routes. It does not duplicate the detailed profile, privat
 
 The initial destinations are:
 
-- `etgar.bonar1.com`
-- `ai.bonar1.com`
+- `etgarbonar.com`
+- `etgarbonar.com/ai/`
 - `adi.bonar1.com`
 
 `ai-build.bonar1.com` is intentionally excluded. The standalone build-story source remains available, but the current live Etgar and Private AI sites already carry its core proof.
