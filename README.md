@@ -24,7 +24,7 @@ The initial destinations are:
 ## Local preview
 
 ```bash
-python3 -m http.server 8766 --directory projects/bonar1-websites/hub-site
+python3 -m http.server 8766   # run from the repository root
 ```
 
 Then open `http://127.0.0.1:8766/`.
